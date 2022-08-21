@@ -20,15 +20,6 @@
 - 🌱 I’m currently learning **Cyber Security, Structure Programming, Cypress, AWS**
 
 - 📫 How to reach me **rakibahmed412245@gmail.com**
-- 
-
-<h2 align="left">Connect with me:</h2>
-<hr>
-<p align="left">
-<a href="https://linkedin.com/in/rakib-ahmed-riad-8b3719229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakib-ahmed-riad-8b3719229" height="30" width="40" /></a>
-<a href="https://www.behance.net/rakibahmedcefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rakibahmedcefe" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rakibahmed412245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rakibahmed412245" height="30" width="40" /></a>
-</p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p>Programming Languages is nothing but a helper that just need few days to learn but the main part is knowing the business of a system and stucturely implement that by writting codes by the help of any language.</p>
