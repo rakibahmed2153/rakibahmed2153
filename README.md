@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **Cyber Security, Structure Programming, Cypress, AWS**
 
 - 📫 How to reach me **rakibahmed412245@gmail.com**
+- 
 
 <h2 align="left">Connect with me:</h2>
 <hr>
@@ -25,6 +26,9 @@
   <img height="200em" src="https://leetcard.jacoblin.cool/rakibahmed412245?theme=light&font=Karma&ext=contest" />
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibahmed2153&show_icons=true)  
- 
+<b>⚡ Github Stats</b>
+<p float="left">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibahmed2153&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibahmed2153&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
