@@ -22,10 +22,9 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-  <img height="273em" src="https://leetcard.jacoblin.cool/rakibahmed412245?theme=light&font=Karma&ext=contest" />
+  <img height="200em" src="https://leetcard.jacoblin.cool/rakibahmed412245?theme=light&font=Karma&ext=contest" />
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakibahmed2153&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rakibahmed2153)  
+ 
 
