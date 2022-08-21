@@ -8,7 +8,7 @@
   <a href="https://leetcode.com/rakibahmed412245/">
     <img src="https://cp-logo.vercel.app/leetcode/rakibahmed412245" alt="Leet code rating" />
   </a>
-  <a href="https://github.com/sudiptob2?tab=followers">
+  <a href="https://github.com/rakibahmed412245?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/rakibahmed2153?color=green&logo=github">
   </a>
   <a href="https://github.com/rakibahmed2153/">
