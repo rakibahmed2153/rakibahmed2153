@@ -22,7 +22,8 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="[https://leetcode.com/rakibahmed412245/](https://leetcard.jacoblin.cool/rakibahmed412245?theme=light&font=Karma&ext=contest)" />
+  <img height="273em" src="https://leetcard.jacoblin.cool/rakibahmed412245?theme=light&font=Karma&ext=contest" />
+  <img height="280em" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
 </p>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rakibahmed2153)  
