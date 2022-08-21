@@ -3,6 +3,20 @@
 <hr>
 <p align="left">Currently I'm working as a senior software engineer in Sheraspace Limited and also as a cyber security trainner in Cyber Bangla Oranization. I am a quick learner. In the working place my role is to maintain a team of 5 people and handling the architecture of the system.</p>
 <hr>
+
+<p align="left">
+  <a href="https://leetcode.com/rakibahmed412245/">
+    <img src="https://cp-logo.vercel.app/leetcode/rakibahmed412245" alt="Leet code rating" />
+  </a>
+  <a href="https://github.com/sudiptob2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/rakibahmed2153?color=green&logo=github">
+  </a>
+  <a href="https://github.com/rakibahmed2153/">
+    <img src="https://komarev.com/ghpvc/?username=rakibahmed2153" alt="visitors" />
+  </a>
+</p>
+
+<hr/>
 - 🌱 I’m currently learning **Cyber Security, Structure Programming, Cypress, AWS**
 
 - 📫 How to reach me **rakibahmed412245@gmail.com**
@@ -32,3 +46,13 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibahmed2153&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+#### Connect With Me
+
+<p left="center">
+<a href="https://www.linkedin.com/in/rakib-ahmed-riad-8b3719229/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="mailto:rakibahmed412245@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>
