@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋, I'm Rakib Ahmed Riad</h1>
-<h3 align="left">Web Penetration Tester | | CTF Player || Software Engineer || Digital Forensic Expert</h3>
+<h3 align="left"> Software Engineer || Web Penetration Tester | | CTF Player || Digital Forensic Expert</h3>
 <hr>
 <p align="left">Currently, I'm working as a senior software engineer in Sheraspace Limited and also working as a cyber security trainner in Cyber Bangla Oranization. I am a quick learner. In the working place, my role is to maintain a team of 5 people and handling the architecture of the system.</p>
 <hr>
