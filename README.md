@@ -20,6 +20,7 @@
 - 🌱 I’m currently learning **Cyber Security, Structure Programming, Cypress, AWS**
 
 - 📫 How to reach me **rakibahmed412245@gmail.com**
+- Profile and Blog ~ https://rakibahmedriad.blogspot.com/ 
 
 <h2 align="left">Languages and Tools:</h2>
 <p>Programming Languages is nothing but a helper that just need few days to learn but the main part is knowing the business of a system and stucturely implement that by writting codes by the help of any language.</p>
