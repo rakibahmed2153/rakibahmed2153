@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Rakib Ahmed Riad</h1>
 <h3 align="left"> Software Engineer || Web Penetration Tester || CTF Player || Digital Forensic Expert</h3>
 <hr>
-<p align="left">Currently, I'm working as a senior software engineer in Sheraspace Limited and also working as a cyber security trainer in Cyber Bangla Organization. I am a quick learner. In the working place, my role is to maintain a team of 5 people and handle the architecture of the system.</p>
+<p align="left">I'm Rakib Ahmed Riad. Currently, I'm working as a Senior Software Engineer in Sheraspace Limited and also working as a Cyber Security Trainer in Cyber Bangla Organization. I am a quick learner. In the working place, my role is to maintain a team of 5 people and handle the architecture of the system.I am a strong information technology professional with a Bachelor of Science - Bsc in Computer Science And Engineering from American International University-Bangladesh.</p>
 <hr>
 
 <p align="left">
