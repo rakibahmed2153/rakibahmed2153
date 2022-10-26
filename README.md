@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Rakib Ahmed Riad</h1>
 <h3 align="left"> Software Engineer || Web Penetration Tester || CTF Player </h3>
 <hr>
-<p align="left">II'm Rakib Ahmed Riad. Currently, I'm working as a Senior Software Engineer in Sheraspace Limited. My key roles are manage a team of 5 people and handle the architecture of the system. I have the hand on experience to working with React Js as Frontend and Python flex as Backend development. Also I working as a Cyber Security Trainer in Cyber Bangla Organization. I am a quick learner and a strong information technology professional with a Bachelor of Science - Bsc in Computer Science And Engineering from American International University-Bangladesh.</p>
+<p align="left">I'm Rakib Ahmed Riad. Currently, I'm working as a Senior Software Engineer in Sheraspace Limited. My key roles are manage a team of 5 people and handle the architecture of the system. I have the hand on experience to working with React Js as Frontend and Python flex as Backend development. Also I working as a Cyber Security Trainer in Cyber Bangla Organization. I am a quick learner and a strong information technology professional with a Bachelor of Science - Bsc in Computer Science And Engineering from American International University-Bangladesh.</p>
 <hr>
 
 <p align="left">
