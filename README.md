@@ -5,13 +5,10 @@
 <hr>
 
 <p align="left">
-  <a href="https://leetcode.com/rakibahmed412245/">
-    <img src="https://cp-logo.vercel.app/leetcode/rakibahmed412245" alt="Leet code rating" />
-  </a>
-  <a href="https://github.com/rakibahmed412245?tab=followers">
+  <a target="_blank" href="https://github.com/rakibahmed412245?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/rakibahmed2153?color=green&logo=github">
   </a>
-  <a href="https://github.com/rakibahmed2153/">
+  <a target="_blank" href="https://github.com/rakibahmed2153/">
     <img src="https://komarev.com/ghpvc/?username=rakibahmed2153" alt="visitors" />
   </a>
 </p>
@@ -44,10 +41,10 @@ Skills :
 #### Connect With Me
 
 <p left="center">
-<a href="https://www.linkedin.com/in/rakib-ahmed-riad-8b3719229/">
+<a target="_blank" href="https://www.linkedin.com/in/rakib-ahmed-riad-8b3719229/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="mailto:rakibahmed412245@gmail.com">
+<a target="_blank" href="mailto:rakibahmed412245@gmail.com">
   <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
