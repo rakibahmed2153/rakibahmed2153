@@ -20,6 +20,7 @@ Skills :
  2. Programming
  3. Software Architecture Design
  4. Security Management
+ 5. Penetration Testing
 
 <h2 align="left">Languages and Tools:</h2>
 <p>Programming Languages are nothing but a language tool that needs a few days to learn, but the main part is knowing the business requirements of a system and structurally implementing those requirements by writing code with the help of any programming language.</p>
