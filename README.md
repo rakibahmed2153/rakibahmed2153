@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Rakib Ahmed Riad</h1>
-<h3 align="left"> Software Engineer || Web Penetration Tester </h3>
+<h3 align="left"> Software Engineer || Penetration Tester </h3>
 <hr>
-<p align="left">Software Engineer and Cybersecurity Professional with over 5 years of experience in software development and cybersecurity, specializing in full-stack development and penetration testing. Key achievements include leading a team of five engineers at Sheraspace Limited to enhance system architecture and security, as well as conducting cybersecurity training and organizing events at Cyber Bangla. Currently seeking a role where I can contribute my technical and leadership skills to enhance system protection and ensure compliance with industry standards.</p>
+<p align="left">Software Engineer and Cybersecurity Professional with over 5 years of experience in software development and cybersecurity, specializing in full-stack development and penetration testing. Key achievements include leading a team of five engineers at Sheraspace Limited to enhance system architecture and security, as well as conducting cybersecurity training, penetration testing, and organizing events at Cyber Bangla. Currently seeking a role where I can contribute my technical and leadership skills to enhance system protection and ensure compliance with industry standards.</p>
 <hr>
 
 <p align="left">
