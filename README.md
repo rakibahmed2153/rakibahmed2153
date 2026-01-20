@@ -33,12 +33,6 @@ Skills :
   <img height="200em" src="https://leetcard.jacoblin.cool/rakibahmed412245?theme=light&font=Karma&ext=contest" />
 </p>
 
-<b>⚡ Github Stats</b>
-<p float="left">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakibahmed2153&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-  
-</p>
-
 #### Connect With Me
 
 <p left="center">
